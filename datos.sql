@@ -4,6 +4,15 @@ drop sequence pregunta_secuencia;
 drop sequence categoria_secuancia;
 drop sequence jugador_secuencia;
 drop sequence juego_secuencia;
+--creacion de secuencias
+CREATE SEQUENCE jugador_secuencia
+INCREMENT BY 1
+START WITH 10000;
+
+CREATE SEQUENCE juego_secuencia
+INCREMENT BY 1
+START WITH 100000;
+
 --insercion de categorias
 CREATE SEQUENCE categoria_secuancia
 INCREMENT BY 1

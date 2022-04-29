@@ -1,2 +1,2 @@
 # Preguntas-y-respuestas
-Juego sobre preguntas y respuestas similar a quien quieres ser millonario 
+En esta rama se encuentran todos los comandos de la base de datos, antes de correr el programa se debe de correr el archivo tablas y luego el archivo datos utilizando al usuario creado previament (Leer el archivo readme del otro repositirio
